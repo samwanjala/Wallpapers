@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CustomSplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/ivory</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splashinsets</item>
+        <item name="postSplashScreenTheme">@style/Theme.SocialApp.NoActionBar</item>
+    </style>
+</resources>
