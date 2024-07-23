@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Sam\\Desktop\\Wallpapers\\renderscript-toolkit\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Sam\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Sam\\Desktop\\Wallpapers\\renderscript-toolkit\\.cxx\\Debug\\8m4u4r2u\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Sam\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Sam\\Desktop\\Wallpapers\\renderscript-toolkit\\.cxx\\Debug\\8m4u4r2u\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "renderscript-toolkit::@6890427a1f51a3e7e1df": {
+      "artifactName": "renderscript-toolkit",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Sam\\Desktop\\Wallpapers\\renderscript-toolkit\\build\\intermediates\\cxx\\Debug\\8m4u4r2u\\obj\\arm64-v8a\\librenderscript-toolkit.so",
+      "runtimeFiles": []
+    },
+    "cpufeatures::@6890427a1f51a3e7e1df": {
+      "artifactName": "cpufeatures",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Sam\\Desktop\\Wallpapers\\renderscript-toolkit\\.cxx\\Debug\\8m4u4r2u\\arm64-v8a\\libcpufeatures.a",
+      "runtimeFiles": []
+    }
+  }
+}

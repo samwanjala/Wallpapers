@@ -1,0 +1,7 @@
+C:\Users\Sam\Desktop\Wallpapers\renderscript-toolkit\src\main\cpp\Blend_advsimd.S
+C:\Users\Sam\Desktop\Wallpapers\renderscript-toolkit\src\main\cpp\Blur_advsimd.S
+C:\Users\Sam\Desktop\Wallpapers\renderscript-toolkit\src\main\cpp\ColorMatrix_advsimd.S
+C:\Users\Sam\Desktop\Wallpapers\renderscript-toolkit\src\main\cpp\Convolve_advsimd.S
+C:\Users\Sam\Desktop\Wallpapers\renderscript-toolkit\src\main\cpp\Lut3d_advsimd.S
+C:\Users\Sam\Desktop\Wallpapers\renderscript-toolkit\src\main\cpp\Resize_advsimd.S
+C:\Users\Sam\Desktop\Wallpapers\renderscript-toolkit\src\main\cpp\YuvToRgb_advsimd.S

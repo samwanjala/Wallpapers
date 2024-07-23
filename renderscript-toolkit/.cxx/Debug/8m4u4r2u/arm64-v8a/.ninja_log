@@ -1,0 +1,25 @@
+# ninja log v5
+14	1620	7434525276917913	CMakeFiles/renderscript-toolkit.dir/Lut.cpp.o	beebf2afc9a2a9ee
+4	1646	7434525277261325	CMakeFiles/renderscript-toolkit.dir/Convolve3x3.cpp.o	a3874a78520f0b4c
+6	1651	7434525277158485	CMakeFiles/renderscript-toolkit.dir/ColorMatrix.cpp.o	671bd4cc4b88ab8d
+9	1801	7434525277993784	CMakeFiles/renderscript-toolkit.dir/Convolve5x5.cpp.o	8adf2bf5d50c1d8a
+11	1829	7434525278905876	CMakeFiles/renderscript-toolkit.dir/Histogram.cpp.o	29e89fd2bc33804d
+1	1921	7434525279843611	CMakeFiles/renderscript-toolkit.dir/Blur.cpp.o	dc1d1d1d34368a6c
+1623	2589	7434525286616282	CMakeFiles/renderscript-toolkit.dir/JniEntryPoints.cpp.o	f2f3cf4819e5628d
+1922	2752	7434525287741304	CMakeFiles/renderscript-toolkit.dir/Utils.cpp.o	c10e0f761421479f
+1801	3038	7434525291215292	CMakeFiles/renderscript-toolkit.dir/RenderScriptToolkit.cpp.o	c916f8d0d941529d
+1647	3049	7434525291215292	CMakeFiles/renderscript-toolkit.dir/Lut3d.cpp.o	ecd3ae2bc719a1a7
+1652	3106	7434525291843187	CMakeFiles/renderscript-toolkit.dir/Resize.cpp.o	1fd70bdddf680864
+1829	3390	7434525293349844	CMakeFiles/renderscript-toolkit.dir/Blend.cpp.o	369b32421624fc22
+3106	3465	7434525295182581	CMakeFiles/renderscript-toolkit.dir/Blend_advsimd.S.o	466f88185e1438f6
+3049	3473	7434525295317304	CMakeFiles/renderscript-toolkit.dir/ColorMatrix_advsimd.S.o	1832380d70a6a29b
+3042	3546	7434525295649761	CMakeFiles/renderscript-toolkit.dir/Blur_advsimd.S.o	f77549d5e920c1f6
+3390	3660	7434525297270877	CMakeFiles/renderscript-toolkit.dir/Convolve_advsimd.S.o	f6de952c597b95ef
+3466	3768	7434525297667173	CMakeFiles/renderscript-toolkit.dir/Lut3d_advsimd.S.o	fa0679055f534586
+3546	3800	7434525297801777	CMakeFiles/renderscript-toolkit.dir/YuvToRgb_advsimd.S.o	eab0f6fbbddc50db
+3542	3871	7434525299469432	CMakeFiles/renderscript-toolkit.dir/Resize_advsimd.S.o	4390d2ef0ad6ee41
+3660	3896	7434525299814678	CMakeFiles/cpufeatures.dir/C_/Users/Sam/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures/cpu-features.c.o	27369c2c61be5acd
+2590	3962	7434525300457733	CMakeFiles/renderscript-toolkit.dir/YuvToRgb.cpp.o	15c952eaf6a06879
+3897	3998	7434525300646139	libcpufeatures.a	e1d33c8a29cf6680
+2753	4256	7434525303417655	CMakeFiles/renderscript-toolkit.dir/TaskProcessor.cpp.o	811d451d102d14c7
+4256	4373	7434525304428556	C:/Users/Sam/Desktop/Wallpapers/renderscript-toolkit/build/intermediates/cxx/Debug/8m4u4r2u/obj/arm64-v8a/librenderscript-toolkit.so	f62a85fffe7af832
